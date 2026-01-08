@@ -3,6 +3,5 @@
 ```bash
 git clone <repo>
 cd <repo>
-mkdir build && cd build
-cmake .. && make -j4
+make
 ```
